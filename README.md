@@ -1,36 +1,42 @@
 ﻿# Carlos Esteban Valenzuela
 
-**Software Architect · Senior Full Stack Developer · Cloud & Security**
+**Software Architect · 18+ years experience · Cloud-native systems**
 
-Bogotá, D.C., Colombia · c.valenzuela.dev@email.com
+Bogotá, Colombia | c.valenzuela.dev@email.com
 
-> Architecting secure, scalable digital platforms with a modern cloud-native approach.
+---
 
-## Summary
+## About
 
-A results-driven software architect with 18+ years of experience in enterprise application modernization, microservices design, and cloud automation.
+Software architect specialized in enterprise modernization, microservices design, and secure cloud deployment. 
+Experienced leading cross-functional teams through complex infrastructure transitions and building high-performance distributed systems.
 
-- Led monolith-to-microservices migrations and Kubernetes adoption.
-- Built high-performance APIs and data-driven logistics systems.
-- Designed secure CI/CD processes and enforced OWASP-driven security guidance.
+Recent focus:
+- Kubernetes migrations and container orchestration
+- Secure CI/CD pipeline design
+- Python FastAPI microservices
+- Infrastructure as Code (Terraform, CloudFormation)
 
-## Core Strengths
+## Tech Stack
 
-- **Languages:** Python, JavaScript, SQL, Bash
-- **Backend:** Django, FastAPI, Flask
-- **Frontend:** React.js
-- **Cloud & Infra:** Docker, Kubernetes, Nginx, AWS, Azure, Linux
-- **Security:** OWASP, vulnerability analysis, secure deployment
+**Languages:** Python, JavaScript/TypeScript, SQL, Bash, PowerShell  
+**Frameworks:** Django, FastAPI, Flask, React  
+**Infrastructure:** Docker, Kubernetes, Nginx, AWS, Azure  
+**DevOps:** GitHub Actions, Jenkins, CloudFormation, Terraform  
+**Security:** OWASP, vulnerability assessment, secure deployment practices
 
-## Featured Repositories
+## Featured Work
 
-- **[portfolio](https://github.com/carlos-valenzuela-dev/portfolio)** — Personal portfolio and GitHub Pages site.
-- **[project-wms-core](https://github.com/carlos-valenzuela-dev/project-wms-core)** — FastAPI microservice with Docker and CI.
-- **[templates-infra-ci](https://github.com/carlos-valenzuela-dev/templates-infra-ci)** — Reusable GitHub Actions templates.
-- **[showcase-mlops](https://github.com/carlos-valenzuela-dev/showcase-mlops)** — Lightweight MLOps automation sample.
-- **[dev-setup](https://github.com/carlos-valenzuela-dev/dev-setup)** — Developer environment bootstrap scripts.
+See my repositories for practical examples of production-ready code and infrastructure patterns.
 
-## Contact
+- **portfolio** — Portfolio website
+- **project-wms-core** — FastAPI service architecture
+- **templates-infra-ci** — GitHub Actions workflows
+- **showcase-mlops** — Model serving patterns
+- **dev-setup** — Developer environment tools
 
-- GitHub: https://github.com/carlos-valenzuela-dev
-- LinkedIn: https://www.linkedin.com/in/carlos-valenzuela-dev
+## Connect
+
+- GitHub: [carlos-valenzuela-dev](https://github.com/carlos-valenzuela-dev)
+- Email: c.valenzuela.dev@email.com
+- LinkedIn: [carlos-valenzuela-dev](https://linkedin.com/in/carlos-valenzuela-dev)
